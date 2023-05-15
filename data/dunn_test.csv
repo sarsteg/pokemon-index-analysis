@@ -1,0 +1,5 @@
+,Legendary,Mythical,Ordinary,Semi-Legendary
+Legendary,1.00,,,
+Mythical,0.15,1.00,,
+Ordinary,0.00,0.00,1.00,
+Semi-Legendary,0.15,0.61,0.00,1.00
